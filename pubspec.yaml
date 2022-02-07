@@ -1,0 +1,32 @@
+name: get_practise
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.16.0-80.1.beta <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: ^4.6.1
+  font_awesome_flutter: ^9.2.0
+  firebase_core: ^1.12.0
+  firebase_auth: ^3.3.6
+  get_storage: ^2.0.3
+  google_sign_in: ^5.2.3
+  http: ^0.13.4
+  smooth_page_indicator: ^1.0.0+2
+  flutter_rating_bar: ^4.0.0
+  readmore: ^2.1.0
+  carousel_slider: ^4.0.0
+  badges: ^2.0.2
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^1.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
